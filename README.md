@@ -92,14 +92,6 @@ python -m PyInstaller --noconfirm --onefile --windowed .\InvoicesExtract.py
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anhnn@dgd.vn)
 [![website](https://img.shields.io/badge/Website-anhnn.cronpost.com-181717?style=for-the-badge&logo=google-chrome&logoColor=white)](https://anhnn.cronpost.com)
 
----
-
-## License
-
-Dự án này được cấp phép theo các điều khoản của [GNU General Public License v3.0](LICENSE). Tất cả các tệp mã nguồn trong kho lưu trữ này đều thuộc phạm vi áp dụng của giấy phép này trừ khi có tuyên bố khác.
-
-**InvoicesExtract AI** • Copyright © 2026 [anhnn](https://github.com/cronpostps)
-
 <hr>
 <div align="center">
   &copy; 2026 <a href="https://github.com/cronpostps">anhnn</a>. Mọi quyền được bảo lưu.<br>
