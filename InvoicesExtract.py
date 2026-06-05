@@ -122,7 +122,7 @@ Bước 3: Nhìn sang menu bên trái, bấm vào "Get API key".
 
 Bước 4: Bấm nút màu xanh "Create API key".
          - Nếu được hỏi, hãy chọn một Project có sẵn hoặc tạo mới.
-         - Sao chép (Copy) đoạn mã Key dài loằng ngoằng vừa hiện ra.
+         - Sao chép ⧉ (Copy) đoạn mã Key dài loằng ngoằng vừa hiện ra.
 
 Bước 5: Quay lại ứng dụng này, dán (Paste) đoạn mã đó vào ô "Gemini API Key".
 

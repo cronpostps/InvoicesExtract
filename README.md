@@ -95,3 +95,5 @@ Mọi đóng góp (Pull Requests), tối ưu code, báo lỗi (Issues) đều đ
 Dự án này được cấp phép theo các điều khoản của [MIT License](LICENSE). Mọi người được phép tự do sử dụng, chỉnh sửa và phân phối.
 
 Mã nguồn gốc © [InvoicesExtract AI by anhnn](https://github.com/cronpostps/InvoicesExtract)
+
+Xem thêm các dự án do [anhnn](https://t.me/anhnn83) dev tại [anhnn.cronpost.com](https://anhnn.cronpost.com)
