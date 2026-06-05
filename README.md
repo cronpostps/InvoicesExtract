@@ -10,7 +10,9 @@
 
 **Download latest version of InvoicesExtract:** [Download](https://github.com/cronpostps/InvoicesExtract/releases/latest/download/InvoicesExtract.zip)
 
-[![Latest Version]](https://github.com/cronpostps/InvoicesExtract/releases/latest/download/InvoicesExtract.zip)
+[![Latest Version](https://img.shields.io/github/v/release/cronpostps/InvoicesExtract?label=Latest%20Version&style=for-the-badge&color=success)](https://github.com/cronpostps/InvoicesExtract/releases/latest/download/InvoicesExtract.zip)
+
+[![Latest Version](https://img.shields.io/badge/-Latest%20Version-blue?style=for-the-badge)](https://github.com/cronpostps/InvoicesExtract/releases/latest/download/InvoicesExtract.zip)
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cronpostps/InvoicesExtract)
 
