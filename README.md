@@ -10,7 +10,7 @@
 
 **Download latest version of InvoicesExtract:** [Download](https://github.com/cronpostps/InvoicesExtract/releases/latest/download/InvoicesExtract.zip)
 
-![GitHub Logo](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cronpostps/InvoicesExtract)
 
 ---
 
