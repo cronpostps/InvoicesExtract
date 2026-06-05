@@ -5,11 +5,9 @@
 !InvoicesExtract.py
 !.gitignore
 !README.md
-!build.bat
 !LICENSE
 
 # 3. Ngoại trừ file Icon (Mở khóa thư mục trước, mở khóa file sau)
 !Icon/
 Icon/*
 !Icon/InvoicesExtract.ico
-!Icon/InvoicesExtract.png
