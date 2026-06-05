@@ -98,4 +98,4 @@ python -m PyInstaller --noconfirm --onefile --windowed .\InvoicesExtract.py
 
 Dự án này được cấp phép theo các điều khoản của [GNU General Public License v3.0](LICENSE). Tất cả các tệp mã nguồn trong kho lưu trữ này đều thuộc phạm vi áp dụng của giấy phép này trừ khi có tuyên bố khác.
 
-Mã nguồn gốc © 2026 [InvoicesExtract AI by anhnn](https://github.com/cronpostps/InvoicesExtract)
+Mã nguồn gốc © 2026 [InvoicesExtract AI](https://github.com/cronpostps/InvoicesExtract) **by ANHNN**
